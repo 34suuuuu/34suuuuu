@@ -1,7 +1,8 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&width=100%&section=header&text=Hello&desc=I'm%20Suhyun&fontSize=60&fontAlignY=45&descAlignY=65&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=B6DDB6&height=200&section=header&text=SUHYUN%20🦠&fontSize=70&fontAlignY=55)
+	
 </div>
 
 <br/>
