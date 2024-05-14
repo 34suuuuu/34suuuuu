@@ -1,24 +1,13 @@
 
+
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=B6DDB6&height=200&section=header&text=SUHYUN%20🦠&fontSize=70&fontAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=venom&color=B6DDB6&height=200&fontColor=238636&section=header&text=SUHYUN%20&fontSize=65&fontAlignY=50)
 	
 </div>
 
 <br/>
 <div align=center>
-
-##  Contact :cloud:
-<p align=center>
-<a href="https://velog.io/@34suuuuu" target="_blank">
-	<img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>		
-</a>
-<a href="mailto:psh7492@gmail.com">
-	<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psh7492@gmail.com"/>	
-	</a>
-</p>
-<br/>
-
 
 ## Tech Stacks :hammer_and_wrench:
 
@@ -63,6 +52,8 @@
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Nodejs-339933?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-1572B6?style=flat&logo=Docker&logoColor=white">
+
 </p>  
 <br/>
 
@@ -73,7 +64,14 @@
 <br/>
 </p>
  <br/>
- 
+
+ ##  Contact :cloud:
+<p align=center>
+<a href="https://velog.io/@34suuuuu" target="_blank">
+	<img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>		
+</a>
+</p>
+<br/>
  ## Problem Solving :computer: 
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=psh0304)](https://solved.ac/psh0304)<br/>
