@@ -73,10 +73,4 @@
 </p>
 <br/>
 
- ## Problem Solving :computer: 
- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=psh0304)](https://solved.ac/psh0304)<br/>
-
-
-
 </div>
