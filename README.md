@@ -8,7 +8,19 @@ height="300"
 />
 </a>
 
-# Tech Stacks :hammer_and_wrench:
+<br/>
+
+# 📄 Projects 
+|프로젝트 명|설명|기간|깃허브 링크|
+|------|---|---|---|
+| ⏳ NoExit - FE | 방탈출게임을 사랑하는 찐덕후들을 위한 통합 플랫폼 서비스 FE |2024.07.19 - 2024.09.06|[NoExit - FE](https://github.com/34suuuuu/noexit-fe-aws)|
+| ⏳ NoExit - BE | 방탈출게임을 사랑하는 찐덕후들을 위한 통합 플랫폼 서비스 BE |2024.07.19 - 2024.09.06|[NoExit - BE](https://github.com/NoExit13/NoExit)|
+| 👩🏻‍🏫 META-seum | 실시간 큐레이팅 메타버스 플랫폼 |2023.04 - 2023.06|[META-seum](https://github.com/34suuuuu/META-seum)|
+
+<br/>
+
+
+# 🛠️ Tech Stacks
 
 ### 📍 Language <br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
