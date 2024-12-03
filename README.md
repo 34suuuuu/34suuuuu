@@ -11,13 +11,13 @@ height="300"
 <br/>
 
 # 📄 Projects 
-|프로젝트 명|설명|기간|깃링크|
-|------|---|---|---|
-| 🏺 POT - FE | 사원들이 보다 효율적으로 업무를 수행할 수 있도록하는 회사 내 자체 웹 기반 HR 솔루션 POT 프론트엔드 |2024.09.09 - 2024.11.06|[POT-프론트](https://github.com/34suuuuu/POT_fe)|
-| 🏺 POT - BE | 사원들이 보다 효율적으로 업무를 수행할 수 있도록하는 회사 내 자체 웹 기반 HR 솔루션 POT 백엔드 |2024.09.09 - 2024.11.06|[POT-백엔드](https://github.com/34suuuuu/POT_be)|
-| ⏳ NoExit - FE | 방탈출게임을 사랑하는 찐덕후들을 위한 통합 플랫폼 서비스 NoExit 프론트엔드 |2024.07.19 - 2024.09.06|[NoExit-프론트](https://github.com/34suuuuu/noexit-fe-aws)|
-| ⏳ NoExit - BE | 방탈출게임을 사랑하는 찐덕후들을 위한 통합 플랫폼 서비스 NoExit 백엔드 |2024.07.19 - 2024.09.06|[NoExit-백엔드](https://github.com/NoExit13/NoExit)|
-| 👩🏻‍🏫 META-seum | 실시간 큐레이팅 메타버스 플랫폼 |2023.04 - 2023.06|[META-seum](https://github.com/34suuuuu/META-seum)|
+|프로젝트명|설명|기간|깃 링크|
+|------------------|------------------------|---|-------------------------|
+| 🏺 POT-FE | 사원들이 보다 효율적으로 업무를 수행할 수 있도록하는 회사 내 자체 웹 기반 HR 솔루션 POT 프론트엔드 |2024.09.09 ~ 2024.11.06|[POT-프론트](https://github.com/34suuuuu/POT_fe)|
+| 🏺 POT-BE | 사원들이 보다 효율적으로 업무를 수행할 수 있도록하는 회사 내 자체 웹 기반 HR 솔루션 POT 백엔드 |2024.09.09 ~ 2024.11.06|[POT-백엔드](https://github.com/34suuuuu/POT_be)|
+| ⏳ NoExit-FE | 방탈출게임을 사랑하는 찐덕후들을 위한 통합 플랫폼 서비스 NoExit 프론트엔드 |2024.07.19 ~ 2024.09.06|[NoExit-프론트](https://github.com/34suuuuu/noexit-fe-aws)|
+| ⏳ NoExit-BE | 방탈출게임을 사랑하는 찐덕후들을 위한 통합 플랫폼 서비스 NoExit 백엔드 |2024.07.19 ~ 2024.09.06|[NoExit-백엔드](https://github.com/NoExit13/NoExit)|
+| 👩🏻‍🏫 META-seum | 실시간 큐레이팅 메타버스 플랫폼 |2023.04 ~<br/> 2023.06|[META-seum](https://github.com/34suuuuu/META-seum)|
 
 <br/>
 
