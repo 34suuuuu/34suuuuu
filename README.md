@@ -3,8 +3,8 @@
 ## Projects 
 |프로젝트명|설명|기간|깃 링크|
 |------------------|------------------------|---|-------------------------|
-| 🏺 POT | 비대면 업무 효율을 높이기 위한 그룹웨어 POT의 Server |2024.09 - 2024.11|[POT Server](https://github.com/34suuuuu/POT_Server)|
-| 🏺 POT | 비대면 업무 효율을 높이기 위한 그룹웨어 POT의 Client |2024.09 - 2024.11|[POT Client](https://github.com/34suuuuu/POT_Client)|
+| 🏺 POT | 비대면 업무 효율을 높이기 위한 그룹웨어 POT의 Server |2024.09 - 2024.11|[POT Server](https://github.com/34suuuuu/POT_be)|
+| 🏺 POT | 비대면 업무 효율을 높이기 위한 그룹웨어 POT의 Client |2024.09 - 2024.11|[POT Client](https://github.com/34suuuuu/POT_fe)|
 | ⏳ NoExit | 방탈출게임 통합 플랫폼 NoExit의 Server |2024.07 - 2024.09|[NoExit Server](https://github.com/34suuuuu/NoExit-be)|
 | ⏳ NoExit | 방탈출게임 통합 플랫폼 NoExit의 Client |2024.07 - 2024.09|[NoExit Client](https://github.com/34suuuuu/noexit-fe-aws)|
 | 👩🏻‍🏫 META-seum | 실시간 큐레이팅 메타버스 플랫폼 |2023.04 - 2023.06|[META-seum](https://github.com/34suuuuu/META-seum)|
