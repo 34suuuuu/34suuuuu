@@ -3,11 +3,9 @@
 ## Projects 
 |프로젝트명|설명|기간|깃 링크|
 |------------------|------------------------|---|-------------------------|
-| 🏺 POT-FE | 비대면 업무 효율을 높이기 위한 그룹웨어 POT의 Client |2024.09.09 ~ 2024.11.06|[POT Client](https://github.com/34suuuuu/POT_fe)|
-| 🏺 POT-BE | 비대면 업무 효율을 높이기 위한 그룹웨어 POT의 Server |2024.09.09 ~ 2024.11.06|[POT Server](https://github.com/34suuuuu/POT_be)|
-| ⏳ NoExit-FE | 방탈출 게임 검색/예약 및 커뮤니티 기능 통합 플랫폼 NoExit의 Client |2024.07.19 ~ 2024.09.06|[NoExit Client](https://github.com/34suuuuu/noexit-fe-aws)|
-| ⏳ NoExit-BE | 방탈출 게임 검색/예약 및 커뮤니티 기능 통합 플랫폼 NoExit Server |2024.07.19 ~ 2024.09.06|[NoExit Server](https://github.com/34suuuuu/NoExit-be)|
-| 👩🏻‍🏫 META-seum | 실시간 큐레이팅 메타버스 플랫폼 |2023.04 ~ 2023.06|[META-seum](https://github.com/34suuuuu/META-seum)|
+| 🏺 POT | 비대면 업무 효율을 높이기 위한 그룹웨어 POT의 Server와 Client |2024.09 - 2024.11|[POT Server](https://github.com/34suuuuu/POT_Server) <br/> [POT Client](https://github.com/34suuuuu/POT_Client)|
+| ⏳ NoExit | 방탈출 게임 검색/예약 및 커뮤니티 기능 통합 플랫폼 NoExit의 Server와 Client |2024.07 - 2024.09|[NoExit Server](https://github.com/34suuuuu/NoExit-be) <br/> [NoExit Client](https://github.com/34suuuuu/noexit-fe-aws)|
+| 👩🏻‍🏫 META-seum | 실시간 큐레이팅 메타버스 플랫폼 |2023.04 - 2023.06|[META-seum](https://github.com/34suuuuu/META-seum)|
 
 <br/>
 
